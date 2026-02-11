@@ -36,7 +36,7 @@ export const products: Product[] = [
     {
         id: "ABT-4055",
         name: "Straight Abutment",
-        image: "/images/products/abutment.jpg",
+        image: "/images/products/ksiii-ba.jpg",
         diameter_mm: 4.5,
         length_mm: 5,
         order_code: "ABT-4055",
@@ -47,7 +47,7 @@ export const products: Product[] = [
     {
         id: "KIT-SURG-01",
         name: "Complete Surgical Kit",
-        image: "/images/products/kit.jpg",
+        image: "/images/products/ksiii-soi.jpg",
         diameter_mm: 0,
         length_mm: 0,
         order_code: "KIT-SURG-01",
@@ -58,7 +58,7 @@ export const products: Product[] = [
     {
         id: "CVR-SCREW",
         name: "Cover Screw",
-        image: "/images/products/cover-screw.jpg",
+        image: "/images/products/ksiii-ba.jpg",
         diameter_mm: 3.5,
         length_mm: 0,
         order_code: "CVR-SC-35",
